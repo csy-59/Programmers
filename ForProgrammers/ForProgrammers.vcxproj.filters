@@ -24,5 +24,8 @@
     <ClCompile Include="정수 제곱근 판별.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="콜라츠 추측.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
